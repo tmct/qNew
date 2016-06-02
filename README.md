@@ -1,3 +1,3 @@
 # To run
-`meteor npm install`
-`meteor`
+1. `meteor npm install`
+1. `meteor`
